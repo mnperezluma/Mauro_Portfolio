@@ -8,5 +8,5 @@
 - Built interactive dashboards on PowerBi to perform better analysis related to our data.
 
 
-![](https://github.com/mnperezluma/Mauro_Portfolio/blob/main/images/output.png)
+![](/images/output.png)
 
