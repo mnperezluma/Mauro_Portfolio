@@ -11,7 +11,7 @@
 ![](/images/output.png)
 
 
-# [Project 2: Finance Project - S&P 500 Analysis: Project Overview](https://github.com/mnperezluma/FinanceProject)
+# [Project 2: Finance Project - S&P 500: Project Overview](https://github.com/mnperezluma/FinanceProject)
 - Used BeatifulSoup library to extract the necessary data from Wikipedia. 
 - Worked with Pandas and YahooFinance API, to perform proper analysis related to daily returns and specific industries.
 - Implemented data visualisations with MatPlotlib, to examine the direct relationship between VIX and S&P500 from 2017 to 2021. 
