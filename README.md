@@ -22,3 +22,10 @@
 
 
 ![](/images/matrix_correlation.png)
+
+
+# [Project 3: Machine Learning Project - Real State Pricing: Project Overview](https://github.com/mnperezluma/Proyecto_ML)
+- Set up EDA to understand and to define which columns/features were appropriate for my model. 
+- Initialized a feature encoding process to transform categorical variables into numerical and also looking for reducing dimensionality.
+- Implemented MatPlotLib library to represent and to choose best parameters for my chosen model. 
+- Developed a Machine Learning Model based on Random Forest Regressor to perform the best metrics for housing price predictions
