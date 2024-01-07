@@ -45,4 +45,4 @@
 ![](/images/tmdb.png)
 
 
-![](/images/popcorn_cinema.png)
+![](/images/popcorn_cinema.jpg)
