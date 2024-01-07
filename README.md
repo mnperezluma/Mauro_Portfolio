@@ -8,7 +8,7 @@
 - Built interactive dashboards on PowerBi to perform better analysis related to our data.
 
 
-![](/images/output.png)
+![](/img/output.png)
 
 
 # [Project 2: Finance Project - S&P 500: Project Overview](https://github.com/mnperezluma/FinanceProject)
@@ -18,22 +18,10 @@
 - Developed a matrix correlation table using SeaBorn, to evaluate assets performance from a recommended investment portfolio.
 
 
-![](/images/plot_precios.png)
+![](/img/plot_precios.png)
 
 
-![](/images/matrix_correlation.png)
-
-
-# [Project 3: Machine Learning Project - Real State Pricing: Project Overview](https://github.com/mnperezluma/Proyecto_ML)
-- Set up EDA to understand and to define which columns/features were appropriate for my model. 
-- Initialized a feature encoding process to transform categorical variables into numerical and also looking for reducing dimensionality.
-- Implemented MatPlotLib library to represent and to choose best parameters for my chosen model. 
-- Developed a Machine Learning Model based on Random Forest Regressor to perform the best metrics for housing price predictions.
-
-![](/images/r2.png)
-
-
-![](/images/rmsle.png)
+![](/img/matrix_correlation.png)
 
 
 # [Project 3: Machine Learning Project - Real State Pricing: Project Overview](https://github.com/mnperezluma/Proyecto_ML)
@@ -42,7 +30,18 @@
 - Implemented MatPlotLib library to represent and to choose best parameters for my chosen model. 
 - Developed a Machine Learning Model based on Random Forest Regressor to perform the best metrics for housing price predictions.
 
-![](/images/tmdb.png)
+![](/img/r2.png)
 
 
-![](/images/popcorn_cinema.jpg)
+![](/img/rmsle.png)
+
+
+# [Project 4: API (Data Engineering Project) - TMDB Movies Report: Project Overview](https://github.com/mnperezluma/TMDB_Movies)
+- Extract the 20 most popular movies of the week according to TMDB from its API. 
+- Allows you to select country and tv providers for easy search.
+- Functional code to send to assigned mail and receive a report with detailed information.
+
+![](/img/tmdb.png)
+
+
+![](/img/popcorn_cinema.jpg)
